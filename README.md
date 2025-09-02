@@ -8,6 +8,7 @@ My journey of learning DSA using LeetCode.
 | ------- |
 | [0037-sudoku-solver](https://github.com/iaryan16/LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [1917-maximum-average-pass-ratio](https://github.com/iaryan16/LeetCode-Journey/tree/master/1917-maximum-average-pass-ratio) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Greedy
 |  |
 | ------- |
@@ -28,4 +29,20 @@ My journey of learning DSA using LeetCode.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/iaryan16/LeetCode-Journey/tree/master/0037-sudoku-solver) |
+## Math
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Sorting
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Enumeration
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
