@@ -25,6 +25,7 @@ My journey of learning DSA using LeetCode.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/iaryan16/LeetCode-Journey/tree/master/0037-sudoku-solver) |
+| [0282-expression-add-operators](https://github.com/iaryan16/LeetCode-Journey/tree/master/0282-expression-add-operators) |
 ## Matrix
 |  |
 | ------- |
@@ -32,6 +33,7 @@ My journey of learning DSA using LeetCode.
 ## Math
 |  |
 | ------- |
+| [0282-expression-add-operators](https://github.com/iaryan16/LeetCode-Journey/tree/master/0282-expression-add-operators) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Geometry
 |  |
@@ -45,4 +47,8 @@ My journey of learning DSA using LeetCode.
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## String
+|  |
+| ------- |
+| [0282-expression-add-operators](https://github.com/iaryan16/LeetCode-Journey/tree/master/0282-expression-add-operators) |
 <!---LeetCode Topics End-->
