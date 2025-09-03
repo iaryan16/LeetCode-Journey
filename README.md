@@ -61,6 +61,7 @@ My journey of learning DSA using LeetCode.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/iaryan16/LeetCode-Journey/tree/master/0231-power-of-two) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
 | ------- |
