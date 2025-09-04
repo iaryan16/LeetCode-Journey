@@ -8,6 +8,7 @@ My journey of learning DSA using LeetCode.
 | ------- |
 | [0037-sudoku-solver](https://github.com/iaryan16/LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/iaryan16/LeetCode-Journey/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/0136-single-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/iaryan16/LeetCode-Journey/tree/master/1917-maximum-average-pass-ratio) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -63,6 +64,7 @@ My journey of learning DSA using LeetCode.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/iaryan16/LeetCode-Journey/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/iaryan16/LeetCode-Journey/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Recursion
