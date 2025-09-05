@@ -37,6 +37,7 @@ My journey of learning DSA using LeetCode.
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/iaryan16/LeetCode-Journey/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/iaryan16/LeetCode-Journey/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/iaryan16/LeetCode-Journey/tree/master/0282-expression-add-operators) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -70,5 +71,6 @@ My journey of learning DSA using LeetCode.
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/iaryan16/LeetCode-Journey/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/iaryan16/LeetCode-Journey/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
