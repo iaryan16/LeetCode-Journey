@@ -6,6 +6,7 @@ My journey of learning DSA using LeetCode.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/iaryan16/LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/iaryan16/LeetCode-Journey/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/0136-single-number) |
@@ -24,6 +25,7 @@ My journey of learning DSA using LeetCode.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/iaryan16/LeetCode-Journey/tree/master/0037-sudoku-solver) |
 ## Backtracking
 |  |
