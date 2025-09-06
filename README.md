@@ -88,4 +88,16 @@ My journey of learning DSA using LeetCode.
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/iaryan16/LeetCode-Journey/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/iaryan16/LeetCode-Journey/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/iaryan16/LeetCode-Journey/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/iaryan16/LeetCode-Journey/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
