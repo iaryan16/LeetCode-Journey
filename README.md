@@ -60,6 +60,7 @@ My journey of learning DSA using LeetCode.
 ## Sorting
 |  |
 | ------- |
+| [2887-sort-vowels-in-a-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
@@ -73,6 +74,7 @@ My journey of learning DSA using LeetCode.
 |  |
 | ------- |
 | [0282-expression-add-operators](https://github.com/iaryan16/LeetCode-Journey/tree/master/0282-expression-add-operators) |
+| [2887-sort-vowels-in-a-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/2887-sort-vowels-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
