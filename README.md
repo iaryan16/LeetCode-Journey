@@ -9,6 +9,7 @@ My journey of learning DSA using LeetCode.
 | [0001-two-sum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/iaryan16/LeetCode-Journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/iaryan16/LeetCode-Journey/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/iaryan16/LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/iaryan16/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/iaryan16/LeetCode-Journey/tree/master/0078-subsets) |
@@ -63,6 +64,7 @@ My journey of learning DSA using LeetCode.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0015-3sum) |
 | [2887-sort-vowels-in-a-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -143,6 +145,7 @@ My journey of learning DSA using LeetCode.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/iaryan16/LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/iaryan16/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
