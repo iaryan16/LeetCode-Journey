@@ -13,6 +13,7 @@ My journey of learning DSA using LeetCode.
 | [0037-sudoku-solver](https://github.com/iaryan16/LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/iaryan16/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/iaryan16/LeetCode-Journey/tree/master/0078-subsets) |
+| [0120-triangle](https://github.com/iaryan16/LeetCode-Journey/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/iaryan16/LeetCode-Journey/tree/master/0204-count-primes) |
 | [0496-next-greater-element-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
@@ -161,6 +162,7 @@ My journey of learning DSA using LeetCode.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/iaryan16/LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/iaryan16/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
+| [0120-triangle](https://github.com/iaryan16/LeetCode-Journey/tree/master/0120-triangle) |
 ## Game Theory
 |  |
 | ------- |
