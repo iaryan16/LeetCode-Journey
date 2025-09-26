@@ -1,5 +1,4 @@
 class Solution {
-    static long sum = 0;
     public int sumSubarrayMins(int[] arr) {
 
         long mod2 = 1000000007L;
