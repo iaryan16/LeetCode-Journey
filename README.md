@@ -22,6 +22,7 @@ My journey of learning DSA using LeetCode.
 | [0735-asteroid-collision](https://github.com/iaryan16/LeetCode-Journey/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/iaryan16/LeetCode-Journey/tree/master/0943-sum-of-subarray-minimums) |
 | [1917-maximum-average-pass-ratio](https://github.com/iaryan16/LeetCode-Journey/tree/master/1917-maximum-average-pass-ratio) |
+| [2227-sum-of-subarray-ranges](https://github.com/iaryan16/LeetCode-Journey/tree/master/2227-sum-of-subarray-ranges) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3797-design-spreadsheet](https://github.com/iaryan16/LeetCode-Journey/tree/master/3797-design-spreadsheet) |
@@ -131,6 +132,7 @@ My journey of learning DSA using LeetCode.
 | [0503-next-greater-element-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/iaryan16/LeetCode-Journey/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/iaryan16/LeetCode-Journey/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/iaryan16/LeetCode-Journey/tree/master/2227-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
@@ -150,6 +152,7 @@ My journey of learning DSA using LeetCode.
 | [0496-next-greater-element-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/iaryan16/LeetCode-Journey/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/iaryan16/LeetCode-Journey/tree/master/2227-sum-of-subarray-ranges) |
 ## Binary Search
 |  |
 | ------- |
