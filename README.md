@@ -29,6 +29,7 @@ My journey of learning DSA using LeetCode.
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/iaryan16/LeetCode-Journey/tree/master/0402-remove-k-digits) |
 | [0611-valid-triangle-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/0611-valid-triangle-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/iaryan16/LeetCode-Journey/tree/master/1917-maximum-average-pass-ratio) |
 ## Heap (Priority Queue)
@@ -95,6 +96,7 @@ My journey of learning DSA using LeetCode.
 | [0014-longest-common-prefix](https://github.com/iaryan16/LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 | [0166-fraction-to-recurring-decimal](https://github.com/iaryan16/LeetCode-Journey/tree/master/0166-fraction-to-recurring-decimal) |
 | [0282-expression-add-operators](https://github.com/iaryan16/LeetCode-Journey/tree/master/0282-expression-add-operators) |
+| [0402-remove-k-digits](https://github.com/iaryan16/LeetCode-Journey/tree/master/0402-remove-k-digits) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/iaryan16/LeetCode-Journey/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2887-sort-vowels-in-a-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/3462-vowels-game-in-a-string) |
@@ -128,6 +130,7 @@ My journey of learning DSA using LeetCode.
 | [0155-min-stack](https://github.com/iaryan16/LeetCode-Journey/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/iaryan16/LeetCode-Journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/iaryan16/LeetCode-Journey/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/iaryan16/LeetCode-Journey/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/iaryan16/LeetCode-Journey/tree/master/0735-asteroid-collision) |
@@ -149,6 +152,7 @@ My journey of learning DSA using LeetCode.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/iaryan16/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/iaryan16/LeetCode-Journey/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/iaryan16/LeetCode-Journey/tree/master/0943-sum-of-subarray-minimums) |
