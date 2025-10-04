@@ -8,6 +8,7 @@ My journey of learning DSA using LeetCode.
 | ------- |
 | [0001-two-sum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/iaryan16/LeetCode-Journey/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/iaryan16/LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/iaryan16/LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/iaryan16/LeetCode-Journey/tree/master/0037-sudoku-solver) |
@@ -31,6 +32,7 @@ My journey of learning DSA using LeetCode.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/iaryan16/LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/iaryan16/LeetCode-Journey/tree/master/0402-remove-k-digits) |
 | [0611-valid-triangle-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/0611-valid-triangle-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/iaryan16/LeetCode-Journey/tree/master/1917-maximum-average-pass-ratio) |
@@ -182,6 +184,7 @@ My journey of learning DSA using LeetCode.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/iaryan16/LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/iaryan16/LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/iaryan16/LeetCode-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/iaryan16/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
