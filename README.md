@@ -101,6 +101,7 @@ My journey of learning DSA using LeetCode.
 | [0005-longest-palindromic-substring](https://github.com/iaryan16/LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/iaryan16/LeetCode-Journey/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/iaryan16/LeetCode-Journey/tree/master/0014-longest-common-prefix) |
+| [0115-distinct-subsequences](https://github.com/iaryan16/LeetCode-Journey/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/iaryan16/LeetCode-Journey/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/iaryan16/LeetCode-Journey/tree/master/0166-fraction-to-recurring-decimal) |
 | [0282-expression-add-operators](https://github.com/iaryan16/LeetCode-Journey/tree/master/0282-expression-add-operators) |
@@ -197,6 +198,7 @@ My journey of learning DSA using LeetCode.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/iaryan16/LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/iaryan16/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
+| [0115-distinct-subsequences](https://github.com/iaryan16/LeetCode-Journey/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/iaryan16/LeetCode-Journey/tree/master/0120-triangle) |
 | [0516-longest-palindromic-subsequence](https://github.com/iaryan16/LeetCode-Journey/tree/master/0516-longest-palindromic-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/iaryan16/LeetCode-Journey/tree/master/0943-sum-of-subarray-minimums) |
