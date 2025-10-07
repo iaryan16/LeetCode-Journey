@@ -18,6 +18,7 @@ My journey of learning DSA using LeetCode.
 | [0120-triangle](https://github.com/iaryan16/LeetCode-Journey/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/iaryan16/LeetCode-Journey/tree/master/0204-count-primes) |
+| [0414-third-maximum-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/0503-next-greater-element-ii) |
 | [0611-valid-triangle-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/0611-valid-triangle-number) |
@@ -84,6 +85,7 @@ My journey of learning DSA using LeetCode.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0015-3sum) |
+| [0414-third-maximum-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/0611-valid-triangle-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
