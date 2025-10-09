@@ -29,6 +29,7 @@ My journey of learning DSA using LeetCode.
 | [2324-find-triangular-sum-of-an-array](https://github.com/iaryan16/LeetCode-Journey/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/iaryan16/LeetCode-Journey/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/iaryan16/LeetCode-Journey/tree/master/3797-design-spreadsheet) |
 ## Greedy
 |  |
@@ -224,6 +225,7 @@ My journey of learning DSA using LeetCode.
 | [0735-asteroid-collision](https://github.com/iaryan16/LeetCode-Journey/tree/master/0735-asteroid-collision) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/iaryan16/LeetCode-Journey/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3336-water-bottles-ii) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/iaryan16/LeetCode-Journey/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Combinatorics
 |  |
 | ------- |
@@ -236,4 +238,8 @@ My journey of learning DSA using LeetCode.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/iaryan16/LeetCode-Journey/tree/master/0146-lru-cache) |
+## Prefix Sum
+|  |
+| ------- |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/iaryan16/LeetCode-Journey/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 <!---LeetCode Topics End-->
