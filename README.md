@@ -26,6 +26,7 @@ My journey of learning DSA using LeetCode.
 | [0943-sum-of-subarray-minimums](https://github.com/iaryan16/LeetCode-Journey/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/iaryan16/LeetCode-Journey/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/iaryan16/LeetCode-Journey/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1917-maximum-average-pass-ratio](https://github.com/iaryan16/LeetCode-Journey/tree/master/1917-maximum-average-pass-ratio) |
 | [2227-sum-of-subarray-ranges](https://github.com/iaryan16/LeetCode-Journey/tree/master/2227-sum-of-subarray-ranges) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/iaryan16/LeetCode-Journey/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -252,6 +253,7 @@ My journey of learning DSA using LeetCode.
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/iaryan16/LeetCode-Journey/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/iaryan16/LeetCode-Journey/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/iaryan16/LeetCode-Journey/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Sliding Window
 |  |
@@ -260,4 +262,5 @@ My journey of learning DSA using LeetCode.
 | [0966-binary-subarrays-with-sum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/iaryan16/LeetCode-Journey/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/iaryan16/LeetCode-Journey/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/iaryan16/LeetCode-Journey/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
