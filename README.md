@@ -25,6 +25,7 @@ My journey of learning DSA using LeetCode.
 | [0735-asteroid-collision](https://github.com/iaryan16/LeetCode-Journey/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/iaryan16/LeetCode-Journey/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0966-binary-subarrays-with-sum) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/iaryan16/LeetCode-Journey/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/iaryan16/LeetCode-Journey/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/iaryan16/LeetCode-Journey/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1917-maximum-average-pass-ratio](https://github.com/iaryan16/LeetCode-Journey/tree/master/1917-maximum-average-pass-ratio) |
@@ -56,6 +57,7 @@ My journey of learning DSA using LeetCode.
 | [0496-next-greater-element-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0966-binary-subarrays-with-sum) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/iaryan16/LeetCode-Journey/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/iaryan16/LeetCode-Journey/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/iaryan16/LeetCode-Journey/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/iaryan16/LeetCode-Journey/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3797-design-spreadsheet](https://github.com/iaryan16/LeetCode-Journey/tree/master/3797-design-spreadsheet) |
@@ -96,6 +98,7 @@ My journey of learning DSA using LeetCode.
 | [0015-3sum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0015-3sum) |
 | [0414-third-maximum-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/0414-third-maximum-number) |
 | [0611-valid-triangle-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/0611-valid-triangle-number) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/iaryan16/LeetCode-Journey/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2887-sort-vowels-in-a-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -121,6 +124,7 @@ My journey of learning DSA using LeetCode.
 | [0516-longest-palindromic-subsequence](https://github.com/iaryan16/LeetCode-Journey/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/iaryan16/LeetCode-Journey/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/iaryan16/LeetCode-Journey/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/iaryan16/LeetCode-Journey/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/iaryan16/LeetCode-Journey/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2887-sort-vowels-in-a-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/3462-vowels-game-in-a-string) |
