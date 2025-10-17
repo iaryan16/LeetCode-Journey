@@ -13,6 +13,7 @@ My journey of learning DSA using LeetCode.
 | [0015-3sum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0015-3sum) |
 | [0037-sudoku-solver](https://github.com/iaryan16/LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/iaryan16/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
+| [0057-insert-interval](https://github.com/iaryan16/LeetCode-Journey/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/iaryan16/LeetCode-Journey/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/iaryan16/LeetCode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/iaryan16/LeetCode-Journey/tree/master/0120-triangle) |
