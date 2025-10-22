@@ -1,0 +1,84 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
+ */
+class Solution {
+
+    Map<TreeNode, TreeNode> parent = new HashMap<>();
+    public List<Integer> distanceK(TreeNode root, TreeNode target, int k) {
+        
+        makeParent(root, parent);
+
+        Queue<TreeNode> q = new LinkedList<>();
+        Set<TreeNode> visited = new HashSet<>();
+        q.add(target);
+        visited.add(target);
+
+        int dist = 0;
+
+        while(!q.isEmpty()) {
+
+            int size = q.size();
+            if(dist == k) {
+                break;
+            }
+            dist++;
+
+            for(int i=0; i<size; i++) {
+                TreeNode curr = q.remove();
+                if(curr.left != null && !visited.contains(curr.left)) {
+                    q.add(curr.left);
+                    visited.add(curr.left);
+                }
+
+                if(curr.right != null && !visited.contains(curr.right)) {
+                    q.add(curr.right);
+                    visited.add(curr.right);
+                }
+                
+                if(parent.get(curr) != null && !visited.contains(parent.get(curr))) {
+                    q.add(parent.get(curr));
+                    visited.add(parent.get(curr));
+                }
+            }
+        }
+        List<Integer> list = new ArrayList<>();
+
+        while(!q.isEmpty()) {
+            list.add(q.remove().val);
+        }
+
+        return list;
+        
+    
+    }
+
+    public void makeParent(TreeNode root, Map<TreeNode, TreeNode> parent) {
+
+        Queue<TreeNode> q = new LinkedList<>();
+        q.add(root);
+
+        while(!q.isEmpty()) {
+            int size = q.size();
+
+            for(int i=0; i<size; i++) {
+                TreeNode curr = q.remove();
+                if(curr.left != null) {
+                    q.add(curr.left);
+                    parent.put(curr.left, curr);
+                }
+
+                if(curr.right != null) {
+                    q.add(curr.right);
+                    parent.put(curr.right, curr);
+                }
+            }
+        }
+
+    }
+}
