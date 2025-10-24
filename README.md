@@ -305,13 +305,19 @@ My journey of learning DSA using LeetCode.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/iaryan16/LeetCode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/iaryan16/LeetCode-Journey/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iaryan16/LeetCode-Journey/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/iaryan16/LeetCode-Journey/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iaryan16/LeetCode-Journey/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/iaryan16/LeetCode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/iaryan16/LeetCode-Journey/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+## Graph
+|  |
+| ------- |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iaryan16/LeetCode-Journey/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 <!---LeetCode Topics End-->
