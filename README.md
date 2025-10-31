@@ -315,6 +315,7 @@ My journey of learning DSA using LeetCode.
 | ------- |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/iaryan16/LeetCode-Journey/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iaryan16/LeetCode-Journey/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/iaryan16/LeetCode-Journey/tree/master/2671-shortest-cycle-in-a-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -325,4 +326,5 @@ My journey of learning DSA using LeetCode.
 |  |
 | ------- |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iaryan16/LeetCode-Journey/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/iaryan16/LeetCode-Journey/tree/master/2671-shortest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
