@@ -13,36 +13,15 @@ class Solution {
 
     public void helper(int image[][], int i, int j, int ic,  int colour, int n, int m) {
 
-        Queue<Pair> q = new LinkedList<>();
-
-        q.offer(new Pair(i,j));
+        if(i<0 || i>=n || j<0 || j>=m || image[i][j] != ic) {
+            return ;
+        }
+        
         image[i][j] = colour;
-
-        int dx[] = {1, -1, 0, 0};
-        int dy[] = {0, 0, 1, -1};
-
-        while(!q.isEmpty()) {
-            Pair curr = q.poll();
-            int cr = curr.x;
-            int cc = curr.y;
-
-            for(int k=0; k<4; k++) {
-                int ii = cr+dx[k];
-                int jj = cc+dy[k];
-                if(ii<0 || ii>=n || jj<0 || jj>=m || image[ii][jj] != ic) {
-                    continue;
-                }
-                q.offer(new Pair(ii,jj));
-                image[ii][jj] = colour;
-            }
-        }
-    }
-
-    class Pair{
-        int x,y;
-        Pair(int x, int y) {
-            this.x = x;
-            this.y = y;
-        }
+        
+        helper(image, i+1, j, ic, colour, n, m);
+        helper(image, i-1, j, ic, colour, n, m);
+        helper(image, i, j+1, ic, colour, n, m);
+        helper(image, i, j-1, ic, colour, n, m);
     }
 }
