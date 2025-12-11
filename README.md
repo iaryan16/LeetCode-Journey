@@ -327,12 +327,14 @@ My journey of learning DSA using LeetCode.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/iaryan16/LeetCode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0733-flood-fill](https://github.com/iaryan16/LeetCode-Journey/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/iaryan16/LeetCode-Journey/tree/master/0785-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/iaryan16/LeetCode-Journey/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iaryan16/LeetCode-Journey/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/iaryan16/LeetCode-Journey/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/iaryan16/LeetCode-Journey/tree/master/0785-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/iaryan16/LeetCode-Journey/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iaryan16/LeetCode-Journey/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/iaryan16/LeetCode-Journey/tree/master/2671-shortest-cycle-in-a-graph) |
@@ -345,6 +347,11 @@ My journey of learning DSA using LeetCode.
 ## Graph
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/iaryan16/LeetCode-Journey/tree/master/0785-is-graph-bipartite) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iaryan16/LeetCode-Journey/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/iaryan16/LeetCode-Journey/tree/master/2671-shortest-cycle-in-a-graph) |
+## Union Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/iaryan16/LeetCode-Journey/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
