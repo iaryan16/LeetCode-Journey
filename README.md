@@ -41,6 +41,7 @@ My journey of learning DSA using LeetCode.
 | [2324-find-triangular-sum-of-an-array](https://github.com/iaryan16/LeetCode-Journey/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3433-count-mentions-per-user](https://github.com/iaryan16/LeetCode-Journey/tree/master/3433-count-mentions-per-user) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -109,6 +110,7 @@ My journey of learning DSA using LeetCode.
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3336-water-bottles-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3336-water-bottles-ii) |
+| [3433-count-mentions-per-user](https://github.com/iaryan16/LeetCode-Journey/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/3462-vowels-game-in-a-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Geometry
@@ -130,6 +132,7 @@ My journey of learning DSA using LeetCode.
 | [2887-sort-vowels-in-a-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3433-count-mentions-per-user](https://github.com/iaryan16/LeetCode-Journey/tree/master/3433-count-mentions-per-user) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Enumeration
 |  |
@@ -282,6 +285,7 @@ My journey of learning DSA using LeetCode.
 | [2274-keep-multiplying-found-values-by-two](https://github.com/iaryan16/LeetCode-Journey/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/iaryan16/LeetCode-Journey/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3336-water-bottles-ii) |
+| [3433-count-mentions-per-user](https://github.com/iaryan16/LeetCode-Journey/tree/master/3433-count-mentions-per-user) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/iaryan16/LeetCode-Journey/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Combinatorics
