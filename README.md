@@ -104,6 +104,7 @@ My journey of learning DSA using LeetCode.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/iaryan16/LeetCode-Journey/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/iaryan16/LeetCode-Journey/tree/master/0062-unique-paths) |
 | [0166-fraction-to-recurring-decimal](https://github.com/iaryan16/LeetCode-Journey/tree/master/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/iaryan16/LeetCode-Journey/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/iaryan16/LeetCode-Journey/tree/master/0231-power-of-two) |
@@ -265,6 +266,7 @@ My journey of learning DSA using LeetCode.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/iaryan16/LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/iaryan16/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/iaryan16/LeetCode-Journey/tree/master/0062-unique-paths) |
 | [0115-distinct-subsequences](https://github.com/iaryan16/LeetCode-Journey/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/iaryan16/LeetCode-Journey/tree/master/0120-triangle) |
 | [0435-non-overlapping-intervals](https://github.com/iaryan16/LeetCode-Journey/tree/master/0435-non-overlapping-intervals) |
@@ -298,6 +300,7 @@ My journey of learning DSA using LeetCode.
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/iaryan16/LeetCode-Journey/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/iaryan16/LeetCode-Journey/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Data Stream
