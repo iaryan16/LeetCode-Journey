@@ -16,6 +16,7 @@ My journey of learning DSA using LeetCode.
 | [0057-insert-interval](https://github.com/iaryan16/LeetCode-Journey/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/iaryan16/LeetCode-Journey/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/iaryan16/LeetCode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/iaryan16/LeetCode-Journey/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/iaryan16/LeetCode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0120-triangle](https://github.com/iaryan16/LeetCode-Journey/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -103,6 +104,7 @@ My journey of learning DSA using LeetCode.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/iaryan16/LeetCode-Journey/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/iaryan16/LeetCode-Journey/tree/master/0085-maximal-rectangle) |
 | [0733-flood-fill](https://github.com/iaryan16/LeetCode-Journey/tree/master/0733-flood-fill) |
 | [3797-design-spreadsheet](https://github.com/iaryan16/LeetCode-Journey/tree/master/3797-design-spreadsheet) |
 ## Math
@@ -207,6 +209,7 @@ My journey of learning DSA using LeetCode.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/iaryan16/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/iaryan16/LeetCode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/iaryan16/LeetCode-Journey/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/iaryan16/LeetCode-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/iaryan16/LeetCode-Journey/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/iaryan16/LeetCode-Journey/tree/master/0225-implement-stack-using-queues) |
@@ -238,6 +241,7 @@ My journey of learning DSA using LeetCode.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/iaryan16/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/iaryan16/LeetCode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/iaryan16/LeetCode-Journey/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/iaryan16/LeetCode-Journey/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/0503-next-greater-element-ii) |
@@ -273,6 +277,7 @@ My journey of learning DSA using LeetCode.
 | [0005-longest-palindromic-substring](https://github.com/iaryan16/LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/iaryan16/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/iaryan16/LeetCode-Journey/tree/master/0062-unique-paths) |
+| [0085-maximal-rectangle](https://github.com/iaryan16/LeetCode-Journey/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/iaryan16/LeetCode-Journey/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/iaryan16/LeetCode-Journey/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
