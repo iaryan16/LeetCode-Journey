@@ -40,6 +40,7 @@ My journey of learning DSA using LeetCode.
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/iaryan16/LeetCode-Journey/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/iaryan16/LeetCode-Journey/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/iaryan16/LeetCode-Journey/tree/master/1733-minimum-number-of-people-to-teach) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/iaryan16/LeetCode-Journey/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1917-maximum-average-pass-ratio](https://github.com/iaryan16/LeetCode-Journey/tree/master/1917-maximum-average-pass-ratio) |
 | [2227-sum-of-subarray-ranges](https://github.com/iaryan16/LeetCode-Journey/tree/master/2227-sum-of-subarray-ranges) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/iaryan16/LeetCode-Journey/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -112,6 +113,7 @@ My journey of learning DSA using LeetCode.
 | [0037-sudoku-solver](https://github.com/iaryan16/LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/iaryan16/LeetCode-Journey/tree/master/0085-maximal-rectangle) |
 | [0733-flood-fill](https://github.com/iaryan16/LeetCode-Journey/tree/master/0733-flood-fill) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/iaryan16/LeetCode-Journey/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3797-design-spreadsheet](https://github.com/iaryan16/LeetCode-Journey/tree/master/3797-design-spreadsheet) |
 ## Math
 |  |
