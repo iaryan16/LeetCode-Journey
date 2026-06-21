@@ -40,6 +40,7 @@ My journey of learning DSA using LeetCode.
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/iaryan16/LeetCode-Journey/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/iaryan16/LeetCode-Journey/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/iaryan16/LeetCode-Journey/tree/master/1733-minimum-number-of-people-to-teach) |
+| [1833-maximum-ice-cream-bars](https://github.com/iaryan16/LeetCode-Journey/tree/master/1833-maximum-ice-cream-bars) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/iaryan16/LeetCode-Journey/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1917-maximum-average-pass-ratio](https://github.com/iaryan16/LeetCode-Journey/tree/master/1917-maximum-average-pass-ratio) |
 | [2227-sum-of-subarray-ranges](https://github.com/iaryan16/LeetCode-Journey/tree/master/2227-sum-of-subarray-ranges) |
@@ -67,6 +68,7 @@ My journey of learning DSA using LeetCode.
 | [0876-hand-of-straights](https://github.com/iaryan16/LeetCode-Journey/tree/master/0876-hand-of-straights) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/iaryan16/LeetCode-Journey/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/iaryan16/LeetCode-Journey/tree/master/1733-minimum-number-of-people-to-teach) |
+| [1833-maximum-ice-cream-bars](https://github.com/iaryan16/LeetCode-Journey/tree/master/1833-maximum-ice-cream-bars) |
 | [1917-maximum-average-pass-ratio](https://github.com/iaryan16/LeetCode-Journey/tree/master/1917-maximum-average-pass-ratio) |
 | [3074-apple-redistribution-into-boxes](https://github.com/iaryan16/LeetCode-Journey/tree/master/3074-apple-redistribution-into-boxes) |
 ## Heap (Priority Queue)
@@ -150,6 +152,7 @@ My journey of learning DSA using LeetCode.
 | [0611-valid-triangle-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/0611-valid-triangle-number) |
 | [0876-hand-of-straights](https://github.com/iaryan16/LeetCode-Journey/tree/master/0876-hand-of-straights) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/iaryan16/LeetCode-Journey/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1833-maximum-ice-cream-bars](https://github.com/iaryan16/LeetCode-Journey/tree/master/1833-maximum-ice-cream-bars) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/iaryan16/LeetCode-Journey/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2887-sort-vowels-in-a-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/2887-sort-vowels-in-a-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/iaryan16/LeetCode-Journey/tree/master/3074-apple-redistribution-into-boxes) |
@@ -412,4 +415,8 @@ My journey of learning DSA using LeetCode.
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/iaryan16/LeetCode-Journey/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
