@@ -43,6 +43,7 @@ My journey of learning DSA using LeetCode.
 | [1833-maximum-ice-cream-bars](https://github.com/iaryan16/LeetCode-Journey/tree/master/1833-maximum-ice-cream-bars) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/iaryan16/LeetCode-Journey/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1917-maximum-average-pass-ratio](https://github.com/iaryan16/LeetCode-Journey/tree/master/1917-maximum-average-pass-ratio) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iaryan16/LeetCode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2227-sum-of-subarray-ranges](https://github.com/iaryan16/LeetCode-Journey/tree/master/2227-sum-of-subarray-ranges) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/iaryan16/LeetCode-Journey/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/iaryan16/LeetCode-Journey/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -191,6 +192,7 @@ My journey of learning DSA using LeetCode.
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/iaryan16/LeetCode-Journey/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/iaryan16/LeetCode-Journey/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/iaryan16/LeetCode-Journey/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iaryan16/LeetCode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2887-sort-vowels-in-a-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/2887-sort-vowels-in-a-string) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3462-vowels-game-in-a-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/3462-vowels-game-in-a-string) |
