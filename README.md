@@ -85,6 +85,7 @@ My journey of learning DSA using LeetCode.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/iaryan16/LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/iaryan16/LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/iaryan16/LeetCode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/iaryan16/LeetCode-Journey/tree/master/0146-lru-cache) |
@@ -175,6 +176,7 @@ My journey of learning DSA using LeetCode.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/iaryan16/LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/iaryan16/LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/iaryan16/LeetCode-Journey/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/iaryan16/LeetCode-Journey/tree/master/0008-string-to-integer-atoi) |
@@ -360,6 +362,7 @@ My journey of learning DSA using LeetCode.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/iaryan16/LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/iaryan16/LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/iaryan16/LeetCode-Journey/tree/master/1370-count-number-of-nice-subarrays) |
