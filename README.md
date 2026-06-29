@@ -383,6 +383,7 @@ My journey of learning DSA using LeetCode.
 | [0787-cheapest-flights-within-k-stops](https://github.com/iaryan16/LeetCode-Journey/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/iaryan16/LeetCode-Journey/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iaryan16/LeetCode-Journey/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [3310-remove-methods-from-project](https://github.com/iaryan16/LeetCode-Journey/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -392,6 +393,7 @@ My journey of learning DSA using LeetCode.
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/iaryan16/LeetCode-Journey/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iaryan16/LeetCode-Journey/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/iaryan16/LeetCode-Journey/tree/master/2671-shortest-cycle-in-a-graph) |
+| [3310-remove-methods-from-project](https://github.com/iaryan16/LeetCode-Journey/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -436,4 +438,8 @@ My journey of learning DSA using LeetCode.
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/iaryan16/LeetCode-Journey/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
