@@ -202,6 +202,7 @@ My journey of learning DSA using LeetCode.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/iaryan16/LeetCode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2887-sort-vowels-in-a-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/2887-sort-vowels-in-a-string) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/iaryan16/LeetCode-Journey/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3462-vowels-game-in-a-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/3462-vowels-game-in-a-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/iaryan16/LeetCode-Journey/tree/master/3797-design-spreadsheet) |
@@ -334,6 +335,7 @@ My journey of learning DSA using LeetCode.
 | [0735-asteroid-collision](https://github.com/iaryan16/LeetCode-Journey/tree/master/0735-asteroid-collision) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/iaryan16/LeetCode-Journey/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/iaryan16/LeetCode-Journey/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/iaryan16/LeetCode-Journey/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3336-water-bottles-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/iaryan16/LeetCode-Journey/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
