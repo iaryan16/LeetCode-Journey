@@ -206,6 +206,7 @@ My journey of learning DSA using LeetCode.
 | [2887-sort-vowels-in-a-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/2887-sort-vowels-in-a-string) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/iaryan16/LeetCode-Journey/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3340-check-balanced-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/3340-check-balanced-string) |
 | [3462-vowels-game-in-a-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/3462-vowels-game-in-a-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/iaryan16/LeetCode-Journey/tree/master/3797-design-spreadsheet) |
