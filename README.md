@@ -53,6 +53,7 @@ My journey of learning DSA using LeetCode.
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3433-count-mentions-per-user](https://github.com/iaryan16/LeetCode-Journey/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -85,6 +86,7 @@ My journey of learning DSA using LeetCode.
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iaryan16/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Hash Table
@@ -130,6 +132,7 @@ My journey of learning DSA using LeetCode.
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/iaryan16/LeetCode-Journey/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iaryan16/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3797-design-spreadsheet](https://github.com/iaryan16/LeetCode-Journey/tree/master/3797-design-spreadsheet) |
 ## Math
 |  |
@@ -444,6 +447,7 @@ My journey of learning DSA using LeetCode.
 | [0787-cheapest-flights-within-k-stops](https://github.com/iaryan16/LeetCode-Journey/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/iaryan16/LeetCode-Journey/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -465,6 +469,7 @@ My journey of learning DSA using LeetCode.
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/iaryan16/LeetCode-Journey/tree/master/3310-remove-methods-from-project) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Union-Find
 |  |
 | ------- |
