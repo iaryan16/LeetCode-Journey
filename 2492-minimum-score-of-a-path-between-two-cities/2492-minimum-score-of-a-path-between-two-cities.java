@@ -1,43 +1,40 @@
 class Solution {
-    class Pair {
-        int y, d;
-        Pair(int y, int d) {
-            // this.x = x;
-            this.y = y;
-            this.d = d;
-        }
-    }
+
     public int minScore(int n, int[][] roads) {
-        Map<Integer, List<Pair>> map = new HashMap<>();
+        Map<Integer, List<int[]>> map = new HashMap<>();
 
         for(int i=0; i<roads.length; i++) {
             int u = roads[i][0];
             int v = roads[i][1];
             int d = roads[i][2];
             map.putIfAbsent(u, new ArrayList());
-            map.get(u).add(new Pair(v, d));
+            map.get(u).add(new int[]{v, d});
             map.putIfAbsent(v, new ArrayList());
-            map.get(v).add(new Pair(u, d));
+            map.get(v).add(new int[]{u, d});
         }
 
-        // boolean visited[] = new boolean[n+1];
-        int dist[] = new int[n+1];
-        Arrays.fill(dist, Integer.MAX_VALUE);
-        solve(1, map, dist);
-        int ans = Integer.MAX_VALUE;
-        for(int i=0; i<=n; i++) {
-            ans = Math.min(ans, dist[i]);
-        }
-        return ans;
+        return solve(n, map);
     }
 
-    public void solve(int node, Map<Integer, List<Pair>> map, int[] dist) {
-    
-        for(Pair nbr : map.get(node)) {
-            if(dist[nbr.y] > nbr.d) {
-                dist[nbr.y] = nbr.d;
-                solve(nbr.y, map, dist);
+    public int solve(int n, Map<Integer, List<int[]>> map) {
+        
+        boolean visited[] = new boolean[n+1];
+        Queue<Integer> q = new LinkedList<>();
+
+        q.offer(1);
+
+        int ans = Integer.MAX_VALUE;
+        while(!q.isEmpty()) {
+            int node = q.poll();
+            visited[node] = true;
+            List<int[]> list = map.get(node);
+
+            for(int nbr[] : list) {
+                ans = Math.min(ans, nbr[1]);
+                if(!visited[nbr[0]])
+                    q.offer(nbr[0]);
             }
         }
+        return ans;
     }
 }
