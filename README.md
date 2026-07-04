@@ -55,6 +55,7 @@ My journey of learning DSA using LeetCode.
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
+| [3351-sum-of-good-subsequences](https://github.com/iaryan16/LeetCode-Journey/tree/master/3351-sum-of-good-subsequences) |
 | [3433-count-mentions-per-user](https://github.com/iaryan16/LeetCode-Journey/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -113,6 +114,7 @@ My journey of learning DSA using LeetCode.
 | [2048-next-greater-numerically-balanced-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/iaryan16/LeetCode-Journey/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3351-sum-of-good-subsequences](https://github.com/iaryan16/LeetCode-Journey/tree/master/3351-sum-of-good-subsequences) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -327,6 +329,7 @@ My journey of learning DSA using LeetCode.
 | [1250-longest-common-subsequence](https://github.com/iaryan16/LeetCode-Journey/tree/master/1250-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/iaryan16/LeetCode-Journey/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/iaryan16/LeetCode-Journey/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3351-sum-of-good-subsequences](https://github.com/iaryan16/LeetCode-Journey/tree/master/3351-sum-of-good-subsequences) |
 ## Game Theory
 |  |
 | ------- |
