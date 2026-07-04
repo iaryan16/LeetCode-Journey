@@ -22,17 +22,21 @@ class Solution {
         Queue<Integer> q = new LinkedList<>();
 
         q.offer(1);
+        visited[1] = true;
 
         int ans = Integer.MAX_VALUE;
         while(!q.isEmpty()) {
             int node = q.poll();
-            visited[node] = true;
             List<int[]> list = map.get(node);
 
             for(int nbr[] : list) {
                 ans = Math.min(ans, nbr[1]);
-                if(!visited[nbr[0]])
+                if(!visited[nbr[0]]) {
+                    visited[nbr[0]] = true;
                     q.offer(nbr[0]);
+                }
+
+                   
             }
         }
         return ans;
