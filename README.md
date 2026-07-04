@@ -406,6 +406,7 @@ My journey of learning DSA using LeetCode.
 | [0787-cheapest-flights-within-k-stops](https://github.com/iaryan16/LeetCode-Journey/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/iaryan16/LeetCode-Journey/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iaryan16/LeetCode-Journey/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/iaryan16/LeetCode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/iaryan16/LeetCode-Journey/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -415,6 +416,7 @@ My journey of learning DSA using LeetCode.
 | [0787-cheapest-flights-within-k-stops](https://github.com/iaryan16/LeetCode-Journey/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/iaryan16/LeetCode-Journey/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iaryan16/LeetCode-Journey/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/iaryan16/LeetCode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/iaryan16/LeetCode-Journey/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iaryan16/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/iaryan16/LeetCode-Journey/tree/master/3310-remove-methods-from-project) |
@@ -467,11 +469,13 @@ My journey of learning DSA using LeetCode.
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/iaryan16/LeetCode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/iaryan16/LeetCode-Journey/tree/master/3310-remove-methods-from-project) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/iaryan16/LeetCode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iaryan16/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
