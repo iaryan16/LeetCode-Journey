@@ -34,6 +34,7 @@ My journey of learning DSA using LeetCode.
 | [0876-hand-of-straights](https://github.com/iaryan16/LeetCode-Journey/tree/master/0876-hand-of-straights) |
 | [0943-sum-of-subarray-minimums](https://github.com/iaryan16/LeetCode-Journey/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0966-binary-subarrays-with-sum) |
+| [1288-remove-covered-intervals](https://github.com/iaryan16/LeetCode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/iaryan16/LeetCode-Journey/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1370-count-number-of-nice-subarrays](https://github.com/iaryan16/LeetCode-Journey/tree/master/1370-count-number-of-nice-subarrays) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/iaryan16/LeetCode-Journey/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -171,6 +172,7 @@ My journey of learning DSA using LeetCode.
 | [0435-non-overlapping-intervals](https://github.com/iaryan16/LeetCode-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/0611-valid-triangle-number) |
 | [0876-hand-of-straights](https://github.com/iaryan16/LeetCode-Journey/tree/master/0876-hand-of-straights) |
+| [1288-remove-covered-intervals](https://github.com/iaryan16/LeetCode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/iaryan16/LeetCode-Journey/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1833-maximum-ice-cream-bars](https://github.com/iaryan16/LeetCode-Journey/tree/master/1833-maximum-ice-cream-bars) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/iaryan16/LeetCode-Journey/tree/master/2274-keep-multiplying-found-values-by-two) |
