@@ -8,9 +8,7 @@ class Solution {
         });
 
         int n = intervals.length;
-
-        List<int[]> list = new ArrayList<>();
-
+        int c = 0;
         for(int i=0; i<n; i++) {
             int start = intervals[i][0];
             int end = intervals[i][1];
@@ -24,10 +22,10 @@ class Solution {
                 }
             }
             if(flag) {
-                list.add(intervals[i]);
+                c++;
             }
         }
 
-        return list.size();
+        return c;
     }
 }
