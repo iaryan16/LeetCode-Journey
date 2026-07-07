@@ -157,6 +157,7 @@ My journey of learning DSA using LeetCode.
 | [3336-water-bottles-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/iaryan16/LeetCode-Journey/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/3462-vowels-game-in-a-string) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Geometry
 |  |
