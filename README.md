@@ -59,6 +59,7 @@ My journey of learning DSA using LeetCode.
 | [3351-sum-of-good-subsequences](https://github.com/iaryan16/LeetCode-Journey/tree/master/3351-sum-of-good-subsequences) |
 | [3433-count-mentions-per-user](https://github.com/iaryan16/LeetCode-Journey/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -117,6 +118,7 @@ My journey of learning DSA using LeetCode.
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3351-sum-of-good-subsequences](https://github.com/iaryan16/LeetCode-Journey/tree/master/3351-sum-of-good-subsequences) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3797-design-spreadsheet](https://github.com/iaryan16/LeetCode-Journey/tree/master/3797-design-spreadsheet) |
@@ -298,6 +300,7 @@ My journey of learning DSA using LeetCode.
 | [0611-valid-triangle-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/iaryan16/LeetCode-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iaryan16/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Divide and Conquer
@@ -483,9 +486,11 @@ My journey of learning DSA using LeetCode.
 | [3310-remove-methods-from-project](https://github.com/iaryan16/LeetCode-Journey/tree/master/3310-remove-methods-from-project) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/iaryan16/LeetCode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iaryan16/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
