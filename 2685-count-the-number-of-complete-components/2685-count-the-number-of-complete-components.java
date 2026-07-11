@@ -29,27 +29,34 @@ class Solution {
 
     public boolean solve(int node, Map<Integer, List<Integer>> map) {
 
-        Queue<Integer> q = new LinkedList<>();
-        q.offer(node);
-        int nodes = 0, edges = 0;
-        while(!q.isEmpty()) {
-            int curr = q.poll();
-            if(visited[curr]) continue;
-            visited[curr] = true;
-            nodes++;
-            for(int i : map.get(curr)) {
-                if(!visited[i]) {
-                    q.offer(i);
-                    edges++;
-                }
+    Queue<Integer> q = new LinkedList<>();
+    q.offer(node);
+
+    int nodes = 0;
+    int edges = 0;
+
+    while (!q.isEmpty()) {
+        int curr = q.poll();
+
+        if (visited[curr])
+            continue;
+
+        visited[curr] = true;
+        nodes++;
+
+        edges += map.get(curr).size();
+
+        for (int next : map.get(curr)) {
+            if (!visited[next]) {
+                q.offer(next);
             }
         }
-
-        int reqEdges = (nodes * (nodes-1)) / 2;
-
-        if(edges == reqEdges) {
-            return true;
-        }
-        return false;
     }
+
+    edges /= 2;
+
+    int reqEdges = nodes * (nodes - 1) / 2;
+
+    return edges == reqEdges;
+}
 }
