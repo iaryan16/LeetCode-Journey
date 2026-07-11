@@ -420,6 +420,7 @@ My journey of learning DSA using LeetCode.
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/iaryan16/LeetCode-Journey/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iaryan16/LeetCode-Journey/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/iaryan16/LeetCode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/iaryan16/LeetCode-Journey/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/iaryan16/LeetCode-Journey/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -431,6 +432,7 @@ My journey of learning DSA using LeetCode.
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/iaryan16/LeetCode-Journey/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/iaryan16/LeetCode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/iaryan16/LeetCode-Journey/tree/master/2671-shortest-cycle-in-a-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/iaryan16/LeetCode-Journey/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iaryan16/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/iaryan16/LeetCode-Journey/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -483,6 +485,7 @@ My journey of learning DSA using LeetCode.
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/iaryan16/LeetCode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/iaryan16/LeetCode-Journey/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/iaryan16/LeetCode-Journey/tree/master/3310-remove-methods-from-project) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
@@ -491,6 +494,7 @@ My journey of learning DSA using LeetCode.
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/iaryan16/LeetCode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/iaryan16/LeetCode-Journey/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iaryan16/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
