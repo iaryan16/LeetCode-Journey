@@ -33,6 +33,7 @@ My journey of learning DSA using LeetCode.
 | [0744-find-smallest-letter-greater-than-target](https://github.com/iaryan16/LeetCode-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0876-hand-of-straights](https://github.com/iaryan16/LeetCode-Journey/tree/master/0876-hand-of-straights) |
 | [0943-sum-of-subarray-minimums](https://github.com/iaryan16/LeetCode-Journey/tree/master/0943-sum-of-subarray-minimums) |
+| [0962-maximum-width-ramp](https://github.com/iaryan16/LeetCode-Journey/tree/master/0962-maximum-width-ramp) |
 | [0966-binary-subarrays-with-sum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0966-binary-subarrays-with-sum) |
 | [1288-remove-covered-intervals](https://github.com/iaryan16/LeetCode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/iaryan16/LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
@@ -269,6 +270,7 @@ My journey of learning DSA using LeetCode.
 | [0735-asteroid-collision](https://github.com/iaryan16/LeetCode-Journey/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/iaryan16/LeetCode-Journey/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/iaryan16/LeetCode-Journey/tree/master/0943-sum-of-subarray-minimums) |
+| [0962-maximum-width-ramp](https://github.com/iaryan16/LeetCode-Journey/tree/master/0962-maximum-width-ramp) |
 | [2227-sum-of-subarray-ranges](https://github.com/iaryan16/LeetCode-Journey/tree/master/2227-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -296,6 +298,7 @@ My journey of learning DSA using LeetCode.
 | [0503-next-greater-element-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/iaryan16/LeetCode-Journey/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/iaryan16/LeetCode-Journey/tree/master/0943-sum-of-subarray-minimums) |
+| [0962-maximum-width-ramp](https://github.com/iaryan16/LeetCode-Journey/tree/master/0962-maximum-width-ramp) |
 | [2227-sum-of-subarray-ranges](https://github.com/iaryan16/LeetCode-Journey/tree/master/2227-sum-of-subarray-ranges) |
 ## Binary Search
 |  |
@@ -324,6 +327,7 @@ My journey of learning DSA using LeetCode.
 | [0165-compare-version-numbers](https://github.com/iaryan16/LeetCode-Journey/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/iaryan16/LeetCode-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0611-valid-triangle-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/0611-valid-triangle-number) |
+| [0962-maximum-width-ramp](https://github.com/iaryan16/LeetCode-Journey/tree/master/0962-maximum-width-ramp) |
 ## Dynamic Programming
 |  |
 | ------- |
