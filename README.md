@@ -68,6 +68,7 @@ My journey of learning DSA using LeetCode.
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/iaryan16/LeetCode-Journey/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/iaryan16/LeetCode-Journey/tree/master/3797-design-spreadsheet) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/iaryan16/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -165,6 +166,7 @@ My journey of learning DSA using LeetCode.
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/iaryan16/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Geometry
 |  |
 | ------- |
@@ -190,6 +192,7 @@ My journey of learning DSA using LeetCode.
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3433-count-mentions-per-user](https://github.com/iaryan16/LeetCode-Journey/tree/master/3433-count-mentions-per-user) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/iaryan16/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -249,6 +252,7 @@ My journey of learning DSA using LeetCode.
 | ------- |
 | [0204-count-primes](https://github.com/iaryan16/LeetCode-Journey/tree/master/0204-count-primes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/iaryan16/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Brainteaser
 |  |
 | ------- |
@@ -328,6 +332,7 @@ My journey of learning DSA using LeetCode.
 | [0295-find-median-from-data-stream](https://github.com/iaryan16/LeetCode-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0611-valid-triangle-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/0611-valid-triangle-number) |
 | [0962-maximum-width-ramp](https://github.com/iaryan16/LeetCode-Journey/tree/master/0962-maximum-width-ramp) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/iaryan16/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -372,6 +377,7 @@ My journey of learning DSA using LeetCode.
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/iaryan16/LeetCode-Journey/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/iaryan16/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
 | ------- |
