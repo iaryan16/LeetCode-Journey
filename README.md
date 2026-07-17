@@ -54,6 +54,7 @@ My journey of learning DSA using LeetCode.
 | [3074-apple-redistribution-into-boxes](https://github.com/iaryan16/LeetCode-Journey/tree/master/3074-apple-redistribution-into-boxes) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/iaryan16/LeetCode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
@@ -119,6 +120,7 @@ My journey of learning DSA using LeetCode.
 | [1733-minimum-number-of-people-to-teach](https://github.com/iaryan16/LeetCode-Journey/tree/master/1733-minimum-number-of-people-to-teach) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/iaryan16/LeetCode-Journey/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3312-sorted-gcd-pair-queries](https://github.com/iaryan16/LeetCode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3351-sum-of-good-subsequences](https://github.com/iaryan16/LeetCode-Journey/tree/master/3351-sum-of-good-subsequences) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -160,6 +162,7 @@ My journey of learning DSA using LeetCode.
 | [2324-find-triangular-sum-of-an-array](https://github.com/iaryan16/LeetCode-Journey/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3312-sorted-gcd-pair-queries](https://github.com/iaryan16/LeetCode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-water-bottles-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/iaryan16/LeetCode-Journey/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/3462-vowels-game-in-a-string) |
@@ -251,6 +254,7 @@ My journey of learning DSA using LeetCode.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/iaryan16/LeetCode-Journey/tree/master/0204-count-primes) |
+| [3312-sorted-gcd-pair-queries](https://github.com/iaryan16/LeetCode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/iaryan16/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Brainteaser
@@ -311,6 +315,7 @@ My journey of learning DSA using LeetCode.
 | [0611-valid-triangle-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/iaryan16/LeetCode-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iaryan16/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/iaryan16/LeetCode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -383,6 +388,7 @@ My journey of learning DSA using LeetCode.
 | ------- |
 | [0062-unique-paths](https://github.com/iaryan16/LeetCode-Journey/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/iaryan16/LeetCode-Journey/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/iaryan16/LeetCode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Data Stream
 |  |
@@ -400,6 +406,7 @@ My journey of learning DSA using LeetCode.
 | [0966-binary-subarrays-with-sum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/iaryan16/LeetCode-Journey/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/iaryan16/LeetCode-Journey/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3312-sorted-gcd-pair-queries](https://github.com/iaryan16/LeetCode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -471,6 +478,7 @@ My journey of learning DSA using LeetCode.
 |  |
 | ------- |
 | [2048-next-greater-numerically-balanced-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/2048-next-greater-numerically-balanced-number) |
+| [3312-sorted-gcd-pair-queries](https://github.com/iaryan16/LeetCode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Shortest Path
 |  |
