@@ -81,6 +81,7 @@ My journey of learning DSA using LeetCode.
 | [0435-non-overlapping-intervals](https://github.com/iaryan16/LeetCode-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0611-valid-triangle-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/0611-valid-triangle-number) |
 | [0876-hand-of-straights](https://github.com/iaryan16/LeetCode-Journey/tree/master/0876-hand-of-straights) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/iaryan16/LeetCode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/iaryan16/LeetCode-Journey/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/iaryan16/LeetCode-Journey/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1833-maximum-ice-cream-bars](https://github.com/iaryan16/LeetCode-Journey/tree/master/1833-maximum-ice-cream-bars) |
@@ -223,6 +224,7 @@ My journey of learning DSA using LeetCode.
 | [0402-remove-k-digits](https://github.com/iaryan16/LeetCode-Journey/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/iaryan16/LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/iaryan16/LeetCode-Journey/tree/master/0516-longest-palindromic-subsequence) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/iaryan16/LeetCode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1250-longest-common-subsequence](https://github.com/iaryan16/LeetCode-Journey/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/iaryan16/LeetCode-Journey/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/iaryan16/LeetCode-Journey/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -282,6 +284,7 @@ My journey of learning DSA using LeetCode.
 | [0937-online-stock-span](https://github.com/iaryan16/LeetCode-Journey/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/iaryan16/LeetCode-Journey/tree/master/0943-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/iaryan16/LeetCode-Journey/tree/master/0962-maximum-width-ramp) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/iaryan16/LeetCode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2227-sum-of-subarray-ranges](https://github.com/iaryan16/LeetCode-Journey/tree/master/2227-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -310,6 +313,7 @@ My journey of learning DSA using LeetCode.
 | [0937-online-stock-span](https://github.com/iaryan16/LeetCode-Journey/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/iaryan16/LeetCode-Journey/tree/master/0943-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/iaryan16/LeetCode-Journey/tree/master/0962-maximum-width-ramp) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/iaryan16/LeetCode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2227-sum-of-subarray-ranges](https://github.com/iaryan16/LeetCode-Journey/tree/master/2227-sum-of-subarray-ranges) |
 ## Binary Search
 |  |
