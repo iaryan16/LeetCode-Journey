@@ -35,6 +35,7 @@ My journey of learning DSA using LeetCode.
 | [0943-sum-of-subarray-minimums](https://github.com/iaryan16/LeetCode-Journey/tree/master/0943-sum-of-subarray-minimums) |
 | [0962-maximum-width-ramp](https://github.com/iaryan16/LeetCode-Journey/tree/master/0962-maximum-width-ramp) |
 | [0966-binary-subarrays-with-sum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0966-binary-subarrays-with-sum) |
+| [1260-shift-2d-grid](https://github.com/iaryan16/LeetCode-Journey/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/iaryan16/LeetCode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/iaryan16/LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/iaryan16/LeetCode-Journey/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -143,6 +144,7 @@ My journey of learning DSA using LeetCode.
 | [0037-sudoku-solver](https://github.com/iaryan16/LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/iaryan16/LeetCode-Journey/tree/master/0085-maximal-rectangle) |
 | [0733-flood-fill](https://github.com/iaryan16/LeetCode-Journey/tree/master/0733-flood-fill) |
+| [1260-shift-2d-grid](https://github.com/iaryan16/LeetCode-Journey/tree/master/1260-shift-2d-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/iaryan16/LeetCode-Journey/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iaryan16/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -381,6 +383,7 @@ My journey of learning DSA using LeetCode.
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/iaryan16/LeetCode-Journey/tree/master/0735-asteroid-collision) |
+| [1260-shift-2d-grid](https://github.com/iaryan16/LeetCode-Journey/tree/master/1260-shift-2d-grid) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/iaryan16/LeetCode-Journey/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/iaryan16/LeetCode-Journey/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/iaryan16/LeetCode-Journey/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
