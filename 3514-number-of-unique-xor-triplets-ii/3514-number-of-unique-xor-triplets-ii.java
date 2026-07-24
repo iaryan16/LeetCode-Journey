@@ -1,36 +1,41 @@
 class Solution {
     public int uniqueXorTriplets(int[] nums) {
-
         int n = nums.length;
-        
-        if(n == 1) {
-            return 1;
-        } else if(n == 2) {
-            if(nums[0] == nums[1]) return 1;
-            return 2;
+
+        int max = nums[0];
+        for(int num : nums) max = Math.max(max, num);
+
+        int c = 0;
+        while(max > 0) {
+            c++;
+            max = max >> 1;
         }
 
-        Set<Integer> set = new HashSet<>();
+        int maxXor = 1 << c;
+        boolean arr[] = new boolean[maxXor];
 
-        for(int i=0; i<n; i++) {
-            int x = nums[i];
-            for(int j=i; j<n; j++) {
-                int y = nums[j];
-                int xor = x ^ y;
-                set.add(xor);
-            }
-        }
-
-        HashSet<Integer> ans = new HashSet<>();
-        for(int i : nums) ans.add(i);
-
-        for(int i : set) {
+        for(int i : nums) {
             for(int j : nums) {
                 int xor = i ^ j;
-                ans.add(xor);
+                arr[xor] = true;
             }
         }
 
-        return ans.size();
+        boolean ans[] = new boolean[maxXor];
+
+        for(int i=0; i<maxXor; i++) {
+            if(!arr[i]) continue;
+            for(int j : nums) {
+                int xor = i ^ j;
+                ans[xor] = true;
+            }
+        }
+
+        int count = 0;
+        for(boolean b : ans) 
+            if(b) 
+                count++;
+
+        return count;
     }
 }
