@@ -64,6 +64,7 @@ My journey of learning DSA using LeetCode.
 | [3351-sum-of-good-subsequences](https://github.com/iaryan16/LeetCode-Journey/tree/master/3351-sum-of-good-subsequences) |
 | [3433-count-mentions-per-user](https://github.com/iaryan16/LeetCode-Journey/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -171,6 +172,7 @@ My journey of learning DSA using LeetCode.
 | [3336-water-bottles-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/iaryan16/LeetCode-Journey/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/3462-vowels-game-in-a-string) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -211,6 +213,7 @@ My journey of learning DSA using LeetCode.
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/iaryan16/LeetCode-Journey/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## String
 |  |
 | ------- |
@@ -251,6 +254,7 @@ My journey of learning DSA using LeetCode.
 | [0231-power-of-two](https://github.com/iaryan16/LeetCode-Journey/tree/master/0231-power-of-two) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/iaryan16/LeetCode-Journey/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Recursion
 |  |
 | ------- |
