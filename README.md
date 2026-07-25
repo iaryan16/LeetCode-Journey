@@ -24,6 +24,7 @@ My journey of learning DSA using LeetCode.
 | [0136-single-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/iaryan16/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/iaryan16/LeetCode-Journey/tree/master/0204-count-primes) |
+| [0238-product-of-array-except-self](https://github.com/iaryan16/LeetCode-Journey/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/iaryan16/LeetCode-Journey/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/iaryan16/LeetCode-Journey/tree/master/0435-non-overlapping-intervals) |
@@ -423,6 +424,7 @@ My journey of learning DSA using LeetCode.
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/iaryan16/LeetCode-Journey/tree/master/0238-product-of-array-except-self) |
 | [0966-binary-subarrays-with-sum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/iaryan16/LeetCode-Journey/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/iaryan16/LeetCode-Journey/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
