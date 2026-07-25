@@ -12,20 +12,20 @@ class Solution {
             while (l < r) {
                 int y = nums[l];
                 int z = nums[r];
-                if (x + y + z == 0) {
+                long sum = x+y+z;
+                if (sum == 0) {
                     List<Integer> list = new ArrayList<>();
                     list.add(x);
                     list.add(y);
                     list.add(z);
                     ans.add(list);
-
                     while (l < r && nums[l] == y) {
                         l++;
                     }
                     while (r > l && nums[r] == z) {
                         r--;
                     }
-                } else if (x + y + z > 0) {
+                } else if (sum > 0) {
                     while (r > l && nums[r] == z) {
                         r--;
                     }
@@ -34,13 +34,12 @@ class Solution {
                         l++;
                     }
                 }
-
             }
 
             while (i < n && x == nums[i]) {
                 i++;
             }
-            i = i - 1;
+            i=i-1;
         }
 
         return ans;
