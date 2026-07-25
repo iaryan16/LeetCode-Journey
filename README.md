@@ -22,6 +22,7 @@ My journey of learning DSA using LeetCode.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/iaryan16/LeetCode-Journey/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/iaryan16/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/iaryan16/LeetCode-Journey/tree/master/0204-count-primes) |
 | [0414-third-maximum-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/iaryan16/LeetCode-Journey/tree/master/0435-non-overlapping-intervals) |
@@ -110,6 +111,7 @@ My journey of learning DSA using LeetCode.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/iaryan16/LeetCode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/iaryan16/LeetCode-Journey/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/iaryan16/LeetCode-Journey/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/iaryan16/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/iaryan16/LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [0876-hand-of-straights](https://github.com/iaryan16/LeetCode-Journey/tree/master/0876-hand-of-straights) |
@@ -186,6 +188,7 @@ My journey of learning DSA using LeetCode.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/iaryan16/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0295-find-median-from-data-stream](https://github.com/iaryan16/LeetCode-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0414-third-maximum-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/iaryan16/LeetCode-Journey/tree/master/0435-non-overlapping-intervals) |
@@ -337,6 +340,7 @@ My journey of learning DSA using LeetCode.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/iaryan16/LeetCode-Journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/iaryan16/LeetCode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/iaryan16/LeetCode-Journey/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Two Pointers
 |  |
@@ -491,6 +495,7 @@ My journey of learning DSA using LeetCode.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/iaryan16/LeetCode-Journey/tree/master/0169-majority-element) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/iaryan16/LeetCode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
