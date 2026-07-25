@@ -1,48 +1,48 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        List<List<Integer>> ans = new ArrayList<>();
-
-        // Sort the array
+        int n = nums.length;
         Arrays.sort(nums);
 
-        for (int i = 0; i < nums.length - 2; i++) {
-            // Skip duplicate elements for i
-            if (i > 0 && nums[i] == nums[i - 1]) {
-                continue;
-            }
+        List<List<Integer>> ans = new ArrayList<>();
 
-            int j = i + 1;
-            int k = nums.length - 1;
+        for (int i = 0; i < n; i++) {
+            int x = nums[i];
+            int l = i + 1;
+            int r = n - 1;
+            while (l < r) {
+                int y = nums[l];
+                int z = nums[r];
+                if (x + y + z == 0) {
+                    List<Integer> list = new ArrayList<>();
+                    list.add(x);
+                    list.add(y);
+                    list.add(z);
+                    ans.add(list);
 
-            while (j < k) {
-                int sum = nums[i] + nums[j] + nums[k];
-
-                if (sum == 0) {
-                    // Found a triplet with zero sum
-                    ans.add(Arrays.asList(nums[i], nums[j], nums[k]));
-
-                    // Skip duplicate elements for j
-                    while (j < k && nums[j] == nums[j + 1]) {
-                        j++;
+                    while (l < r && nums[l] == y) {
+                        l++;
                     }
-
-                    // Skip duplicate elements for k
-                    while (j < k && nums[k] == nums[k - 1]) {
-                        k--;
+                    while (r > l && nums[r] == z) {
+                        r--;
                     }
-
-                    // Move the pointers
-                    j++;
-                    k--;
-                } else if (sum < 0) {
-                    // Sum is less than zero, increment j to increase the sum
-                    j++;
+                } else if (x + y + z > 0) {
+                    while (r > l && nums[r] == z) {
+                        r--;
+                    }
                 } else {
-                    // Sum is greater than zero, decrement k to decrease the sum
-                    k--;
+                    while (l < r && nums[l] == y) {
+                        l++;
+                    }
                 }
+
             }
+
+            while (i < n && x == nums[i]) {
+                i++;
+            }
+            i = i - 1;
         }
+
         return ans;
     }
 }
