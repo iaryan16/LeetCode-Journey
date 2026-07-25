@@ -1,45 +1,36 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        int n = nums.length;
         Arrays.sort(nums);
-
         List<List<Integer>> ans = new ArrayList<>();
 
+        int n = nums.length;
+
         for (int i = 0; i < n; i++) {
-            int x = nums[i];
-            int l = i + 1;
-            int r = n - 1;
-            while (l < r) {
-                int y = nums[l];
-                int z = nums[r];
-                long sum = x+y+z;
-                if (sum == 0) {
-                    List<Integer> list = new ArrayList<>();
-                    list.add(x);
-                    list.add(y);
-                    list.add(z);
-                    ans.add(list);
-                    while (l < r && nums[l] == y) {
-                        l++;
-                    }
-                    while (r > l && nums[r] == z) {
-                        r--;
-                    }
-                } else if (sum > 0) {
-                    while (r > l && nums[r] == z) {
-                        r--;
-                    }
-                } else {
-                    while (l < r && nums[l] == y) {
-                        l++;
-                    }
-                }
+
+            if (i > 0 && nums[i] == nums[i - 1]) {
+                continue;
             }
 
-            while (i < n && x == nums[i]) {
-                i++;
+            int l = i + 1;
+            int r = n - 1;
+
+            while (l < r) {
+
+                long sum = (long) nums[i] + nums[l] + nums[r];
+
+                if (sum == 0) {
+                    ans.add(Arrays.asList(nums[i], nums[l], nums[r]));
+                    l++;
+                    r--;
+                    while (l < r && nums[l] == nums[l - 1]) l++;
+                    while (l < r && nums[r] == nums[r + 1]) r--;
+
+                } else if (sum < 0) {
+                    l++;
+                } else {
+                    r--;
+                }
             }
-            i=i-1;
         }
 
         return ans;
