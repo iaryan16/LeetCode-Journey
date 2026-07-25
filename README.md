@@ -11,6 +11,7 @@ My journey of learning DSA using LeetCode.
 | [0011-container-with-most-water](https://github.com/iaryan16/LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/iaryan16/LeetCode-Journey/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/iaryan16/LeetCode-Journey/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/iaryan16/LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/iaryan16/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0057-insert-interval](https://github.com/iaryan16/LeetCode-Journey/tree/master/0057-insert-interval) |
@@ -351,6 +352,7 @@ My journey of learning DSA using LeetCode.
 | [0011-container-with-most-water](https://github.com/iaryan16/LeetCode-Journey/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/iaryan16/LeetCode-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/iaryan16/LeetCode-Journey/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/iaryan16/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0165-compare-version-numbers](https://github.com/iaryan16/LeetCode-Journey/tree/master/0165-compare-version-numbers) |
 | [0283-move-zeroes](https://github.com/iaryan16/LeetCode-Journey/tree/master/0283-move-zeroes) |
