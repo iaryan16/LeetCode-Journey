@@ -118,6 +118,7 @@ My journey of learning DSA using LeetCode.
 | [0166-fraction-to-recurring-decimal](https://github.com/iaryan16/LeetCode-Journey/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/iaryan16/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/iaryan16/LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/0567-permutation-in-string) |
 | [0876-hand-of-straights](https://github.com/iaryan16/LeetCode-Journey/tree/master/0876-hand-of-straights) |
@@ -238,6 +239,7 @@ My journey of learning DSA using LeetCode.
 | [0282-expression-add-operators](https://github.com/iaryan16/LeetCode-Journey/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/iaryan16/LeetCode-Journey/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/iaryan16/LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/iaryan16/LeetCode-Journey/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/0567-permutation-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/iaryan16/LeetCode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -448,6 +450,7 @@ My journey of learning DSA using LeetCode.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iaryan16/LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/iaryan16/LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0966-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iaryan16/LeetCode-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
