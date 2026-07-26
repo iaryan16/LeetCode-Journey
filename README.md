@@ -119,6 +119,7 @@ My journey of learning DSA using LeetCode.
 | [0169-majority-element](https://github.com/iaryan16/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/iaryan16/LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/0567-permutation-in-string) |
 | [0876-hand-of-straights](https://github.com/iaryan16/LeetCode-Journey/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/iaryan16/LeetCode-Journey/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0966-binary-subarrays-with-sum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0966-binary-subarrays-with-sum) |
@@ -238,6 +239,7 @@ My journey of learning DSA using LeetCode.
 | [0402-remove-k-digits](https://github.com/iaryan16/LeetCode-Journey/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/iaryan16/LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/iaryan16/LeetCode-Journey/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/0567-permutation-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/iaryan16/LeetCode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1250-longest-common-subsequence](https://github.com/iaryan16/LeetCode-Journey/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/iaryan16/LeetCode-Journey/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -362,6 +364,7 @@ My journey of learning DSA using LeetCode.
 | [0165-compare-version-numbers](https://github.com/iaryan16/LeetCode-Journey/tree/master/0165-compare-version-numbers) |
 | [0283-move-zeroes](https://github.com/iaryan16/LeetCode-Journey/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/iaryan16/LeetCode-Journey/tree/master/0295-find-median-from-data-stream) |
+| [0567-permutation-in-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/0611-valid-triangle-number) |
 | [0962-maximum-width-ramp](https://github.com/iaryan16/LeetCode-Journey/tree/master/0962-maximum-width-ramp) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/iaryan16/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -445,6 +448,7 @@ My journey of learning DSA using LeetCode.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iaryan16/LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/iaryan16/LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0966-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/iaryan16/LeetCode-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/iaryan16/LeetCode-Journey/tree/master/1370-count-number-of-nice-subarrays) |
