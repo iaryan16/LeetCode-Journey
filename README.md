@@ -26,6 +26,7 @@ My journey of learning DSA using LeetCode.
 | [0169-majority-element](https://github.com/iaryan16/LeetCode-Journey/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/iaryan16/LeetCode-Journey/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/iaryan16/LeetCode-Journey/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/iaryan16/LeetCode-Journey/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/iaryan16/LeetCode-Journey/tree/master/0435-non-overlapping-intervals) |
@@ -98,6 +99,7 @@ My journey of learning DSA using LeetCode.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/iaryan16/LeetCode-Journey/tree/master/0295-find-median-from-data-stream) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/iaryan16/LeetCode-Journey/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1917-maximum-average-pass-ratio](https://github.com/iaryan16/LeetCode-Journey/tree/master/1917-maximum-average-pass-ratio) |
@@ -322,6 +324,7 @@ My journey of learning DSA using LeetCode.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/iaryan16/LeetCode-Journey/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/iaryan16/LeetCode-Journey/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -450,6 +453,7 @@ My journey of learning DSA using LeetCode.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iaryan16/LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/iaryan16/LeetCode-Journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/iaryan16/LeetCode-Journey/tree/master/0567-permutation-in-string) |
@@ -558,4 +562,8 @@ My journey of learning DSA using LeetCode.
 | [2685-count-the-number-of-complete-components](https://github.com/iaryan16/LeetCode-Journey/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iaryan16/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
