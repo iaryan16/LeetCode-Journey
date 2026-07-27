@@ -15,6 +15,7 @@ My journey of learning DSA using LeetCode.
 | [0037-sudoku-solver](https://github.com/iaryan16/LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/iaryan16/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0057-insert-interval](https://github.com/iaryan16/LeetCode-Journey/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/iaryan16/LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/iaryan16/LeetCode-Journey/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/iaryan16/LeetCode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/iaryan16/LeetCode-Journey/tree/master/0085-maximal-rectangle) |
@@ -115,6 +116,7 @@ My journey of learning DSA using LeetCode.
 | [0001-two-sum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iaryan16/LeetCode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/iaryan16/LeetCode-Journey/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/iaryan16/LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/iaryan16/LeetCode-Journey/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/iaryan16/LeetCode-Journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/iaryan16/LeetCode-Journey/tree/master/0146-lru-cache) |
@@ -155,6 +157,7 @@ My journey of learning DSA using LeetCode.
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/iaryan16/LeetCode-Journey/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/iaryan16/LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/iaryan16/LeetCode-Journey/tree/master/0085-maximal-rectangle) |
 | [0733-flood-fill](https://github.com/iaryan16/LeetCode-Journey/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/iaryan16/LeetCode-Journey/tree/master/1260-shift-2d-grid) |
