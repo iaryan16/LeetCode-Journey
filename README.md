@@ -575,4 +575,8 @@ My journey of learning DSA using LeetCode.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
+## Database
+|  |
+| ------- |
+| [1934-confirmation-rate](https://github.com/iaryan16/LeetCode-Journey/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
