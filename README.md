@@ -578,5 +578,6 @@ My journey of learning DSA using LeetCode.
 ## Database
 |  |
 | ------- |
+| [1174-immediate-food-delivery-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/1174-immediate-food-delivery-ii) |
 | [1934-confirmation-rate](https://github.com/iaryan16/LeetCode-Journey/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
