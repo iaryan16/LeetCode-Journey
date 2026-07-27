@@ -16,6 +16,7 @@ My journey of learning DSA using LeetCode.
 | [0042-trapping-rain-water](https://github.com/iaryan16/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0057-insert-interval](https://github.com/iaryan16/LeetCode-Journey/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/iaryan16/LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/iaryan16/LeetCode-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/iaryan16/LeetCode-Journey/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/iaryan16/LeetCode-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/iaryan16/LeetCode-Journey/tree/master/0085-maximal-rectangle) |
@@ -158,6 +159,7 @@ My journey of learning DSA using LeetCode.
 | ------- |
 | [0037-sudoku-solver](https://github.com/iaryan16/LeetCode-Journey/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/iaryan16/LeetCode-Journey/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/iaryan16/LeetCode-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/iaryan16/LeetCode-Journey/tree/master/0085-maximal-rectangle) |
 | [0733-flood-fill](https://github.com/iaryan16/LeetCode-Journey/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/iaryan16/LeetCode-Journey/tree/master/1260-shift-2d-grid) |
@@ -349,6 +351,7 @@ My journey of learning DSA using LeetCode.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/iaryan16/LeetCode-Journey/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/iaryan16/LeetCode-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0611-valid-triangle-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/iaryan16/LeetCode-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iaryan16/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
