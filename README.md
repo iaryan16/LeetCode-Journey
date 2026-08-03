@@ -173,6 +173,7 @@ My journey of learning DSA using LeetCode.
 | ------- |
 | [0050-powx-n](https://github.com/iaryan16/LeetCode-Journey/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/iaryan16/LeetCode-Journey/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/iaryan16/LeetCode-Journey/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/iaryan16/LeetCode-Journey/tree/master/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/iaryan16/LeetCode-Journey/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/iaryan16/LeetCode-Journey/tree/master/0231-power-of-two) |
@@ -388,6 +389,7 @@ My journey of learning DSA using LeetCode.
 | [0005-longest-palindromic-substring](https://github.com/iaryan16/LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/iaryan16/LeetCode-Journey/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/iaryan16/LeetCode-Journey/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/iaryan16/LeetCode-Journey/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/iaryan16/LeetCode-Journey/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/iaryan16/LeetCode-Journey/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/iaryan16/LeetCode-Journey/tree/master/0120-triangle) |
@@ -581,4 +583,8 @@ My journey of learning DSA using LeetCode.
 | [1174-immediate-food-delivery-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/1193-monthly-transactions-i) |
 | [1934-confirmation-rate](https://github.com/iaryan16/LeetCode-Journey/tree/master/1934-confirmation-rate) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/iaryan16/LeetCode-Journey/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
