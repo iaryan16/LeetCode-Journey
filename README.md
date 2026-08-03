@@ -30,6 +30,7 @@ My journey of learning DSA using LeetCode.
 | [0238-product-of-array-except-self](https://github.com/iaryan16/LeetCode-Journey/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/iaryan16/LeetCode-Journey/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/iaryan16/LeetCode-Journey/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/iaryan16/LeetCode-Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0414-third-maximum-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/iaryan16/LeetCode-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/0496-next-greater-element-i) |
@@ -353,6 +354,7 @@ My journey of learning DSA using LeetCode.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/iaryan16/LeetCode-Journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/iaryan16/LeetCode-Journey/tree/master/0074-search-a-2d-matrix) |
+| [0300-longest-increasing-subsequence](https://github.com/iaryan16/LeetCode-Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/iaryan16/LeetCode-Journey/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/iaryan16/LeetCode-Journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/iaryan16/LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -394,6 +396,7 @@ My journey of learning DSA using LeetCode.
 | [0115-distinct-subsequences](https://github.com/iaryan16/LeetCode-Journey/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/iaryan16/LeetCode-Journey/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/iaryan16/LeetCode-Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/iaryan16/LeetCode-Journey/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/iaryan16/LeetCode-Journey/tree/master/0516-longest-palindromic-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/iaryan16/LeetCode-Journey/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -587,4 +590,8 @@ My journey of learning DSA using LeetCode.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/iaryan16/LeetCode-Journey/tree/master/0070-climbing-stairs) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/iaryan16/LeetCode-Journey/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
