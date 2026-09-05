@@ -83,6 +83,7 @@ My journey of learning DSA using LeetCode.
 | [3797-design-spreadsheet](https://github.com/iaryan16/LeetCode-Journey/tree/master/3797-design-spreadsheet) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/iaryan16/LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3903-smallest-stable-index-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -464,6 +465,7 @@ My journey of learning DSA using LeetCode.
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/iaryan16/LeetCode-Journey/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3903-smallest-stable-index-i](https://github.com/iaryan16/LeetCode-Journey/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/iaryan16/LeetCode-Journey/tree/master/3904-smallest-stable-index-ii) |
 ## Sliding Window
 |  |
 | ------- |
